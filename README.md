@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lakshay-singhal-355760221/)
-[![X](https://x.com/plakshay083) 
+
 
 
 
