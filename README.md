@@ -1,7 +1,7 @@
 
 
-# 💫 About Me:
-i'm currently working upon my upcoming project "hastakshar"<br>, pursuing Btech from CSIT branch<br>I have a keen interest in flutter development and image recognisation using OpenCv
+
+
 
 
 ## 🌐 Socials:
